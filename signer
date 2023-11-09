@@ -1,0 +1,3 @@
+              - name: Code sign a file
+                uses: dlemstra/code-sign-action@v1
+            
