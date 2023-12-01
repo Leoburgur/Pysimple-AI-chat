@@ -3,7 +3,7 @@ import google.generativeai as palm
 import pyperclip
 
 
-palm.configure(api_key="AIzaSyCKtydVd__KSOmxJX4wT-Utb9Y6MHFPpjg")
+palm.configure(api_key="API_KEY")
 
 defaults = {
   'model': 'models/chat-bison-001',
